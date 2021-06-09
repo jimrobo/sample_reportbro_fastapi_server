@@ -1,0 +1,14 @@
+{
+    "log": "path to log file",
+    "dbName": "db name",
+    "dbAddress": "db hostname",
+    "gunicornPort": 8000,
+    "dbPass": "db password",
+    "dbPort": 33000,
+    "dbUser": "db username",
+    "sentryKey": "sentry string if needed",
+    "apikeyName": {
+        "anyKey": "any Name to associate",
+        "anyKey2": "and name to associate"
+    }
+}
