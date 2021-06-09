@@ -13,4 +13,4 @@ It includes:
 - endpoints to create documents/reprint documents from the db, create templates, view templates by account and an individual template
 - It has sentry setup to monitor exceptions and logzero to manage log files
 - The fastapi instance has apikeys setup in the header to manage the security using the default fastapi methods
-- all environment variables and sesnsitive stuff is in the config file
+- all environment variables and sensitive stuff is in the config file
